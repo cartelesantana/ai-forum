@@ -1,7 +1,7 @@
 import { PrismaClient } from '@prisma/client'
 import { redirect } from 'next/navigation'
 import ArticleForm from '../ArticleForm'
-import {uploadImage} from "@/lib/uploadImage"
+//import {uploadImage} from "@/lib/uploadImage"
 
 const prisma = new PrismaClient()
 
