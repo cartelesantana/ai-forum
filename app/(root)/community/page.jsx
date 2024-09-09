@@ -25,7 +25,7 @@ const Page = () => {
               Join our large community
             </h1>
             <p className="mb-16 text-center">
-              See how we're positioning Africa at the forefront of the AI
+              See how we are positioning Africa at the forefront of the AI
               revolution, one innovation at a time
             </p>
           </div>
@@ -115,7 +115,7 @@ const Page = () => {
             </div>
             <h2 className="mb-3 text-5xl font-semibold">Discussion Forum</h2>
             <p className="">
-              We're proud to work alongside visionary organizations committed to
+              We are proud to work alongside visionary organizations committed to
               harnessing the potential of AI in Africa. Our partners represent a
               diverse ecosystem of innovators, from tech giants to local
               startups, all united in the goal of positioning Africa at the
@@ -207,7 +207,7 @@ const Page = () => {
             </div>
             <h2 className="mb-3 text-5xl font-semibold">Networking</h2>
             <p className="">
-              We're proud to work alongside visionary organizations committed to
+              We are proud to work alongside visionary organizations committed to
               harnessing the potential of AI in Africa. Our partners represent a
               diverse ecosystem of innovators, from tech giants to local
               startups, all united in the goal of positioning Africa at the
@@ -224,7 +224,7 @@ const Page = () => {
             Featured Community Members
           </h2>
           <p>
-            We're proud to work alongside visionary organizations committed to
+            We are proud to work alongside visionary organizations committed to
             harnessing the potential of AI in Africa. Our partners represent a
             diverse ecosystem of innovators, from tech giants to local startups,
             all united in the goal of positioning Africa at the forefront of the
@@ -259,7 +259,7 @@ const Page = () => {
         <div className="flex flex-col items-start gap-x-5 lg:flex-row">
           <div className="mb-10 w-full lg:mb-0 lg:w-2/5">
             <p className="">
-              We're proud to work alongside visionary organizations committed to
+              We are proud to work alongside visionary organizations committed to
               harnessing the potential of AI in Africa. Our partners represent a
               diverse ecosystem of innovators, from tech giants to local
               startups, all united in the goal of positioning Africa at the
