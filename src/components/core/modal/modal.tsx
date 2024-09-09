@@ -1,7 +1,7 @@
-import React, { useState } from "react";
-import "./modal.css";
-import { getModalSize } from "./modal.utils.ts";
-import { X } from "lucide-react";
+//import React, { useState } from "react";
+//import "./modal.css";
+//import { getModalSize } from "./modal.utils.ts";
+//import { X } from "lucide-react";
 
 type BaseDivAttributes = React.ComponentPropsWithoutRef<"div">;
 
