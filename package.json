@@ -1,0 +1,44 @@
+{
+  "name": "africa-ai-forum",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^5.3.7",
+    "@floating-ui/react-dom": "^2.1.1",
+    "@prisma/client": "^5.19.0",
+    "@types/resize-observer-browser": "^0.1.11",
+    "aria-hidden": "^1.2.4",
+    "framer-motion": "^11.3.30",
+    "lucide": "^0.428.0",
+    "lucide-react": "^0.429.0",
+    "next": "14.2.5",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.3.0",
+    "react-remove-scroll": "^2.5.10",
+    "react-use-measure": "^2.1.1",
+    "tailwind-merge": "^2.5.2",
+    "tailwindcss-animate": "^1.0.7",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/uuid": "^10.0.0",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "postcss": "^8",
+    "prettier": "^3.3.3",
+    "prettier-plugin-tailwindcss": "^0.6.6",
+    "prisma": "^5.19.0",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
