@@ -24,7 +24,7 @@ const Page = () => {
             Bridging the Global AI Divide
           </h1>
           <p className="mb-16 text-center">
-            See how we're positioning Africa at the forefront of the AI
+            See how we are positioning Africa at the forefront of the AI
             revolution, one innovation at a time
           </p>
         </div>
@@ -134,7 +134,7 @@ const Page = () => {
             </p>
             <h2 className="mb-3 text-5xl font-semibold">Our Missions</h2>
             <p className="mb-3">
-              We're proud to work alongside visionary organizations committed to
+              We are proud to work alongside visionary organizations committed to
               harnessing the potential of AI in Africa. Our partners represent a
               diverse ecosystem of innovators, from tech giants to local
               startups, all united in the goal of positioning Africa at the
@@ -163,7 +163,7 @@ const Page = () => {
         <div className="text-center">
           <h2 className="mb-3 text-5xl font-semibold">Our Story</h2>
           <p className="mb-3">
-            We're proud to work alongside visionary organizations committed to
+            We are proud to work alongside visionary organizations committed to
             harnessing the potential of AI in Africa. Our partners represent a
             diverse ecosystem of innovators, from tech giants to local startups,
             all united in the goal of positioning Africa at the forefront of the
@@ -182,7 +182,7 @@ const Page = () => {
             </div>
             <h2 className="mb-3 text-5xl font-semibold">Impact Overview</h2>
             <p className="">
-              We're proud to work alongside visionary organizations committed to
+              We are proud to work alongside visionary organizations committed to
               harnessing the potential of AI in Africa. Our partners represent a
               diverse ecosystem of innovators, from tech giants to local
               startups, all united in the goal of positioning Africa at the
@@ -256,7 +256,7 @@ const Page = () => {
         <div className="mb-8 text-center">
           <h2 className="mb-3 text-5xl font-semibold">Our Team</h2>
           <p>
-            We're proud to work alongside visionary organizations committed to
+            We are proud to work alongside visionary organizations committed to
             harnessing the potential of AI in Africa. Our partners represent a
             diverse ecosystem of innovators, from tech giants to local startups,
             all united in the goal of positioning Africa at the forefront of the
@@ -281,7 +281,7 @@ const Page = () => {
             </div>
             <h2 className="mb-3 text-5xl font-semibold">Core Values</h2>
             <p className="">
-              We're proud to work alongside visionary organizations committed to
+              We are proud to work alongside visionary organizations committed to
               harnessing the potential of AI in Africa. Our partners represent a
               diverse ecosystem of innovators, from tech giants to local
               startups, all united in the goal of positioning Africa at the
@@ -325,7 +325,7 @@ const Page = () => {
         <div className="flex flex-col items-start gap-x-5 lg:flex-row">
           <div className="mb-10 w-full lg:mb-0 lg:w-2/5">
             <p className="">
-              We're proud to work alongside visionary organizations committed to
+              We are proud to work alongside visionary organizations committed to
               harnessing the potential of AI in Africa. Our partners represent a
               diverse ecosystem of innovators, from tech giants to local
               startups, all united in the goal of positioning Africa at the

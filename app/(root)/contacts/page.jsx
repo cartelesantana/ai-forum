@@ -55,7 +55,7 @@ const Page = () => {
             Contacts
           </h1>
           <p className="mb-10 lg:px-16 text-center">
-            See how we're positioning Africa at the forefront of the AI
+            See how we are positioning Africa at the forefront of the AI
             revolution, one innovation at a time
           </p>
         </div>
@@ -78,7 +78,7 @@ const Page = () => {
                 </h3>
               </div>
               <p className="mb-5">
-                See how we're positioning Africa at the forefront of the AI
+                See how we are positioning Africa at the forefront of the AI
                 revolution, one innovation at a time
               </p>
               <ul className="flex flex-col gap-4">

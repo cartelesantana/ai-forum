@@ -38,7 +38,7 @@ const Page = () => {
             </h1>
             <p className="text-center lg:px-16 mb-10">
               Explore a comprehensive collection of AI knowledge tailored for
-              Africa's unique challenges and opportunities
+              the unique challenges and opportunities of Africa
             </p>
           </div>
           <div className="section-gutter relative flex flex-wrap items-center justify-center gap-x-5">

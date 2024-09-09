@@ -34,7 +34,7 @@ const CTA = () => {
             shape the future of AI in Africa.
           </p>
           <div className="flex flex-col lg:flex-row gap-y-4 lg:gap-y-0 w-full lg:w-2/3 items-center justify-between rounded-md bg-neutral-100 p-2">
-            <p>Join Africa's Premier AI Community</p>
+            <p>Join the Premier AI Community in Africa</p>
             <Button onClick={() => setIsModal(true)}>Become a Member</Button>
           </div>
         </div>

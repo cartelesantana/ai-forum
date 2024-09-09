@@ -39,7 +39,7 @@ export default function Home() {
       <div className="section-gutter section-spacing grid w-full grid-cols-1 lg:grid-cols-2">
         <section className="pt-[32px] lg:mb-32 lg:pt-[32px]">
           <h1 className="mb-2 text-5xl font-bold leading-[1.15] lg:text-6xl">
-            Shaping <span className="text-primary_dl">AI</span>'s Future in{" "}
+            Shaping <span className="text-primary_dl">AI</span>s Future in{" "}
             <span className="text-secondary_dl">Africa</span>
           </h1>
           <p className="mb-8 lg:mb-16">
@@ -141,7 +141,7 @@ export default function Home() {
         <div className="relative mb-5 grid grid-cols-1 lg:grid-cols-2">
           <div className="mb-5 lg:mb-0">
             <h1 className="text-3xl font-semibold lg:text-5xl">
-              Cultivating Africa's AI Ecosystem
+              Cultivating  AI Ecosystem in Africa
             </h1>
           </div>
           <div className="grid grid-cols-1 gap-x-10 md:grid-cols-2">
@@ -284,7 +284,7 @@ export default function Home() {
                     </div>
                   </div>
                   <p>
-                    We are committed to nurturing Africa's AI talent pool,
+                    We are committed to nurturing  AI talent pool in Africa,
                     providing world-class education
                   </p>
                 </SecionSlide>
@@ -296,7 +296,7 @@ export default function Home() {
               Our Alliance for AI Excellence
             </h2>
             <p className="mb-3">
-              We're proud to work alongside visionary organizations committed to
+              We are proud to work alongside visionary organizations committed to
               harnessing the potential of AI in Africa. Our partners represent a
               diverse ecosystem of innovators, from tech giants to local
               startups, all united in the goal of positioning Africa at the
